@@ -17,7 +17,6 @@ This beginner-friendly data engineering project reads sales records from a CSV f
 ## Project files
 - `load_data.py` — main ETL script
 - `sales_data.csv` — sample source data
-- `requirements.txt` — dependencies (no external packages required)
 - `sales.db` — created automatically when the script runs
 
 ## How to run
